@@ -1,9 +1,6 @@
 package atividade01;
 import java.util.Scanner;
-
 public class Questao01 {
-    
-
     public static void main(String[] args) {
         float nota1, nota2,media;
 
@@ -25,6 +22,6 @@ public class Questao01 {
         }
 
         System.out.println(" Média "+ media);
-         scan.close();  
+         scan.close();
     }
 }
