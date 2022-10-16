@@ -24,6 +24,6 @@ public class Questao01 {
         }
 
         System.out.println(" Média "+ media);
-        scan.close();
+          scan.close();
     }
 }
